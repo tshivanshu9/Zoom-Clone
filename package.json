@@ -17,6 +17,5 @@
     "uuid": "^8.3.2"
   },
   "devDependencies": {
-    "react-error-overlay": "^6.0.9"
-  }
+    "react-error-overlay": "6.0.9"  }
 }
