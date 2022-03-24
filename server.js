@@ -29,4 +29,4 @@ io.on('connection', socket => {
     })
 })
 
-const port = process.env.PORT || 3030 ;
+const port = process.env.PORT || 3000 ;
